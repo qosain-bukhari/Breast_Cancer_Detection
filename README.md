@@ -37,8 +37,8 @@ cd Breast_Cancer_Detection
 pip install -r requirements.txt
 3. Run the app
 streamlit run app.py
-Then open in browser:
 
+Then open in browser:
 http://localhost:8501
 🐳 Docker Deployment Guide
 Step 1: Build the Docker image
