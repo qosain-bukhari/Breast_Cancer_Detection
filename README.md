@@ -91,7 +91,7 @@ joblib
 👨‍💻 Author
 Name: Qosain Bukhari
 GitHub: @qosain-bukhari
-Email: qosainbukhari@gmail.com (update this if needed)
+Email: bukhariqosain824@gmail.com (update this if needed)
 
 📜 License
 This project is licensed under the MIT License.
