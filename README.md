@@ -135,7 +135,7 @@ joblib
 
 **Name:** Qoshuu  
 **GitHub:** [@qosain-bukhari](https://github.com/qosain-bukhari)  
-**Email:** qosainbukhari@gmail.com
+**Email:** bukhariqosain824@gmail.com
 
 ---
 
